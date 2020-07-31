@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/helloreact3/static/css/main.5f361e03.chunk.css",
-    "main.js": "/helloreact3/static/js/main.16c8251c.chunk.js",
-    "main.js.map": "/helloreact3/static/js/main.16c8251c.chunk.js.map",
+    "main.js": "/helloreact3/static/js/main.e17b365e.chunk.js",
+    "main.js.map": "/helloreact3/static/js/main.e17b365e.chunk.js.map",
     "runtime-main.js": "/helloreact3/static/js/runtime-main.f420fb5b.js",
     "runtime-main.js.map": "/helloreact3/static/js/runtime-main.f420fb5b.js.map",
-    "static/js/2.cfb89828.chunk.js": "/helloreact3/static/js/2.cfb89828.chunk.js",
-    "static/js/2.cfb89828.chunk.js.map": "/helloreact3/static/js/2.cfb89828.chunk.js.map",
+    "static/js/2.03eabc87.chunk.js": "/helloreact3/static/js/2.03eabc87.chunk.js",
+    "static/js/2.03eabc87.chunk.js.map": "/helloreact3/static/js/2.03eabc87.chunk.js.map",
     "index.html": "/helloreact3/index.html",
-    "precache-manifest.c9550bd0e1748e0f356ea98baed38fd6.js": "/helloreact3/precache-manifest.c9550bd0e1748e0f356ea98baed38fd6.js",
+    "precache-manifest.68e4d52a3d5bd770c6f3baf4877ac962.js": "/helloreact3/precache-manifest.68e4d52a3d5bd770c6f3baf4877ac962.js",
     "service-worker.js": "/helloreact3/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/helloreact3/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cfb89828.chunk.js.LICENSE.txt": "/helloreact3/static/js/2.cfb89828.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/helloreact3/static/media/logo.5d5d9eef.svg"
+    "static/js/2.03eabc87.chunk.js.LICENSE.txt": "/helloreact3/static/js/2.03eabc87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f420fb5b.js",
-    "static/js/2.cfb89828.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.16c8251c.chunk.js"
+    "static/js/2.03eabc87.chunk.js",
+    "static/js/main.e17b365e.chunk.js"
   ]
 }
